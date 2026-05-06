@@ -1,4 +1,4 @@
-# Oracle Exam Management System
+# Oracle University Exam Management System
 
 A comprehensive Oracle PL/SQL implementation for managing university exams, student registrations, grades, warnings, and audit trails.
 
