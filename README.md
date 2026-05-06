@@ -1,6 +1,6 @@
 # University Exam Management System – Oracle PL/SQL Architecture & Implementation
 
-## Full Documentation
+## Full Documentations
 
 ---
 
