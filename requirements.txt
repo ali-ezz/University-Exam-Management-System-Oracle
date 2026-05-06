@@ -1,0 +1,2 @@
+# No Python runtime dependencies are required for the SQL/PLSQL deployment scripts.
+# Add packages here if you extend the repository with application code.
